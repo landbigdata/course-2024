@@ -13116,7 +13116,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Assignment-#5">Assignment #5<a class="anchor-link" href="#Assignment-#5">&#182;</a></h1><p>Deep Learning / Spring 1398, Iran University of Science and Technology</p>
+<h1 id="Assignment-#5">Assignment #5<a class="anchor-link" href="#Assignment-#5">&#182;</a></h1><p>Deep Learning / Spring 1398, Shanghai Normal University</p>
 <hr>
 
 </div>
@@ -13144,7 +13144,7 @@ div#notebook {
 <li><strong>Before starting to work on the assignment please fill your name in the next section AND Remember to RUN the cell.</strong></li>
 </ul>
 <p><br/></p>
-<p>Assignment Page: <a href="https://iust-deep-learning.github.io/972/assignments/05_rnn_in_depth">https://iust-deep-learning.github.io/972/assignments/05_rnn_in_depth</a></p>
+<p>Assignment Page: <a href="https://landbigdata.github.io/972/assignments/05_rnn_in_depth">https://landbigdata.github.io/972/assignments/05_rnn_in_depth</a></p>
 <p>Course Forum: <a href="https://groups.google.com/forum/#!forum/dl972/">https://groups.google.com/forum/#!forum/dl972/</a></p>
 
 </div>
@@ -13332,7 +13332,7 @@ div#notebook {
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>As you can see, we've saved some memory in our artificial example. Let's jump back to our case when the sequences are real sentences. What does this input tensor really mean? Recall that the RNN input is a 3d tensor, but here we have 2d arrays. Actually, this 2d array is simply small number of sentences gathered together to construct one batch, and each word is replaced with its ID from the vocabulary</p>
-<p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg05_assets/01_lstm_input_2d.png" width="850"/>   
+<p align="center"><img src="https://landbigdata.github.io/972/static_files/assignments/asg05_assets/01_lstm_input_2d.png" width="850"/>   
 </p>
 <p align="center">Figure 1. Batch size = 3, and W<sub>i</sub> = Word ID assigned by the vocabulary, and 0 is reserved for padding; Here max_len = 6, and sentence 1 and 3 are padded to match up with the longest sentence</p>
 </div>
@@ -13343,7 +13343,7 @@ div#notebook {
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>This 2d array is the actual input that we feed into our network. However, there is one more step. As mentioned earlier, an RNN input must be a 3d tensor. A typical input shape for an RNN is something like <code>[batch, max_len, features]</code>. Up to this point, we have <code>[batch, max_len]</code> with another dimension left. In NLP, features are simply the word embeddings. So let's bring our embedding layer to create the final tensor:</p>
 <p>&lt;/br&gt;</p>
-<p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg05_assets/02_lstm_input_3d.png" />   
+<p align="center"><img src="https://landbigdata.github.io/972/static_files/assignments/asg05_assets/02_lstm_input_3d.png" />   
 </p>
 </br>
 <p align="center">Figure 2. E<SUB>i</SUB> is the embedding vector for word W<sub>i</sub>. This tensor has [batch = 3, max_len = 6, features = 300 ] shape, and is ready to be fed into an RNN network directly.  </p><p>Some time steps are grayed out by the masking layer. It simply hides these steps from the upcoming layers (here the upcoming layer is the RNN network). By masking these inputs we tell the RNN network to skip the grayed out inputs and continue the computation on the remaining sequences.</p>
@@ -13502,9 +13502,9 @@ div#notebook {
 Unfortunately the answer to this question is "no"; In practice, It is proven that naively making our model deep will always result in worse performance. The problem here is rooted in the training algorithm, i.e., Backpropagation. Having more layers result in more dimmed, vanished error signals. Therefore, early layers will have no idea about what they are doing wrong since the received error signal is quite faded.</p>
 <p>One of the simple but smart ideas to address this problem is Residual connections. It directly connects every single layer to the final output, which is considered as the primary source of the error signal. In other words, it makes the error signal propagation more efficient. In other words, it creates some kind of <em>highway</em> for neural network blocks to put their input on and receive high-quality error signal in the backward pass. In residual connections, ther input is added to the output along with neural network block result. i. e.  $y = F(x) + x$ where $F(x)$ is some neural network building block.</p>
 <p>&lt;/br&gt;</p>
-<p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg05_assets/03_residual_connection.png" width="400" />   
+<p align="center"><img src="https://landbigdata.github.io/972/static_files/assignments/asg05_assets/03_residual_connection.png" width="400" />   
 </p><p align="center">Figure 3. A residual connection with two neural network blocks.  </p><p>Residual connections were originally introduced in 2015 [2], primarily for image recognition networks. However, recurrent neural networks are no different from deep networks in terms of their deepness. In fact, RNNs unfold themselves to match their input sequence, which consequently creates a deep network. So, why not try residual connections on RNNs?</p>
-<p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg05_assets/04_residual_lstm.png" width="400" />   
+<p align="center"><img src="https://landbigdata.github.io/972/static_files/assignments/asg05_assets/04_residual_lstm.png" width="400" />   
 </p><p align="center">Figure 4. Residual recuarrent neural network with multi layer LSTM cells.  </p><p>In an LSTM network, we can add residual connections between distinct layers to make dataflow simpler. Note that this connection is restricted to a single feedforward step of RNN. That is, LSTM cells cannot be connected across steps. It is intresting to know that Google has trained a huge deep neural machine translation system with 8 LSTM layers by incorporating this architecture for Google Translate.</p>
 <p>There are no residual connections in the first layer. Why? How can you fix this?</p>
 
@@ -13624,7 +13624,7 @@ Unfortunately the answer to this question is "no"; In practice, It is proven tha
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Another technique that originates from Computer Vision is called Max pooling. As you might remember, this technique reduces the impact of spatial information in the image. For example, If your CNN says, "Yay! I found a wheel at the position (x,y).", your Max-pooling will convert this sentence to "Yay! I found a wheel in this image."  Intuitively We can use the max-pooling procedure in any configuration beside an image. Here is an example of Max-pooling application in recurrent networks:</p>
-<p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg05_assets/05_rnn_max_pooling.png" width="450" />   
+<p align="center"><img src="https://landbigdata.github.io/972/static_files/assignments/asg05_assets/05_rnn_max_pooling.png" width="450" />   
 </p>
 <p align="center">Figure 5. Max-pooling through an RNN's hidden states.  </p><p>In this setup, we'd like to perform max-pooling over the hidden states $\hat{h} = MaxPool([h^{(1)}, ..., h^{(n)}])$ where $\hat{h}$ is the max-pooled version. Every dim of $\hat{h}$ is the maximum of that particular dim across all of the hidden states.</p>
 $$
@@ -13831,7 +13831,7 @@ $$<p>Explain why do you think max-pooling through time will help model's perform
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Having all parts ready, we can now build our advanced deep memory efficient RNN classifier. You should first implement a multi-layer LSTM bidirectional recurrent neural network with residual connections. Set its initial states to a trainable parameter. Then put Max-pooling layer on top of that in order to reduce all hidden states in a single vector, and finally Feed the computed vector into a multi-layer dense network to get the final predicted label. Here is a complete figure for our advanced model:</p>
-<p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg05_assets/06_final_network.png" width="800" /> </p><p>Hints:</p>
+<p align="center"><img src="https://landbigdata.github.io/972/static_files/assignments/asg05_assets/06_final_network.png" width="800" /> </p><p>Hints:</p>
 <ol>
 <li>Create an Embedding layer to convert word ids to thier corresponding embeddings. Use <code>layers.Embedding</code> class and remember to pass <code>mask_zero=True</code> in its paramters.</li>
 <li>Create the RNN part:<ol>
@@ -13969,7 +13969,7 @@ $$<p>Explain why do you think max-pooling through time will help model's perform
 <div class="prompt input_prompt">In&nbsp;[0]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="o">!</span> wget -q https://iust-deep-learning.github.io/972/static_files/assignments/asg04_assets/data.tar.gz
+<div class=" highlight hl-ipython3"><pre><span></span><span class="o">!</span> wget -q https://landbigdata.github.io/972/static_files/assignments/asg04_assets/data.tar.gz
 <span class="o">!</span> tar xvfz data.tar.gz &gt; /dev/null
 
 <span class="kn">from</span> <span class="nn">ag_news_util</span> <span class="k">import</span> <span class="n">read_ag_news</span><span class="p">,</span> <span class="n">AG_NEWS_LBLS</span>
@@ -15729,9 +15729,9 @@ xGQJwhhjTEz/D3a0Rb2r8GUDAAAAAElFTkSuQmCC
 <span class="s1">    Jupyter.notebook.save_checkpoint();</span>
 <span class="s1">});</span>
 <span class="s1">&#39;&#39;&#39;</span>
-<span class="n">repo_name</span> <span class="o">=</span> <span class="s1">&#39;iust-deep-learning-assignments&#39;</span>
+<span class="n">repo_name</span> <span class="o">=</span> <span class="s1">&#39;landbigdata-assignments&#39;</span>
 <span class="n">submission_file_name</span> <span class="o">=</span> <span class="s1">&#39;dl_asg05__</span><span class="si">%s</span><span class="s1">__</span><span class="si">%s</span><span class="s1">.zip&#39;</span><span class="o">%</span><span class="p">(</span><span class="n">student_id</span><span class="p">,</span> <span class="n">student_name</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39; &#39;</span><span class="p">,</span>  <span class="s1">&#39;_&#39;</span><span class="p">))</span>
-<span class="n">course_url</span> <span class="o">=</span> <span class="s1">&#39;https://iust-deep-learning.github.io/972/&#39;</span>
+<span class="n">course_url</span> <span class="o">=</span> <span class="s1">&#39;https://landbigdata.github.io/972/&#39;</span>
 
 <span class="o">!</span> tar xf hub-linux-amd64-2.10.0.tgz
 <span class="o">!</span> <span class="nb">cd</span> hub-linux-amd64-2.10.0/ <span class="o">&amp;&amp;</span> chmod a+x install <span class="o">&amp;&amp;</span> ./install

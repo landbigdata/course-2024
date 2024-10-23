@@ -10,9 +10,9 @@
   <title> Assignment #5 - RNNs in Depth - Deep Learning / Spring 1398 (2019) </title>
   <meta name="description" content="In the final assignment, we’ll build a deep memory-efficient recurrent neural network (RNN) which has residual LSTM cells and a Max-pooling layer. Also, we w...">
   
-  <link rel="stylesheet" href="/972/_css/main.css">
-  <link rel="canonical" href="https://iust-deep-learning.github.io//972/assignments/05_rnn_in_depth">
-  <link rel="alternate" type="application/rss+xml" title="Iran University of Science and Technology (IUST)" href="https://iust-deep-learning.github.io//972/feed.xml" />
+  <link rel="stylesheet" href="/course-2024/_css/main.css">
+  <link rel="canonical" href="https://landbigdata.github.io//course-2024/assignments/05_rnn_in_depth">
+  <link rel="alternate" type="application/rss+xml" title="Shanghai Normal University (SHNU)" href="https://landbigdata.github.io//course-2024/feed.xml" />
 <link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.2.4' type='text/css' media='all' />
 <link href='https://fonts.googleapis.com/css?family=Titillium+Web:600italic,600,400,400italic' rel='stylesheet' type='text/css'>
 
@@ -21,7 +21,7 @@
 
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-<script src="/972/_js/particles.min.js"></script>
+<script src="/course-2024/_js/particles.min.js"></script>
 
 </head>
 
@@ -31,10 +31,10 @@
     <header class="site-header">
   <div class="wrapper" style="z-index:1">
       <table><tr>
-          <td><img style="opacity: 0.9;" width="75" src="/972/_images/iust.png" valign="middle"></td>
-          <td style="padding-left:10px;"><a style="font-size: 15px;color: #ffffffc7;" class="site-title" href="http://www.iust.ac.ir">Iran University of Science and Technology (IUST)</a>
+          <td><img style="opacity: 0.9;" width="75" src="/course-2024/_images/SHNU.png" valign="middle"></td>
+          <td style="padding-left:10px;"><a style="font-size: 15px;color: #ffffffc7;" class="site-title" href="http://www.SHNU.ac.ir">Shanghai Normal University (SHNU)</a>
           <br/>
-          <span style="margin-top: -2px;margin-bottom: -10px;" class="site-title"><a href="/972/" title="Deep Learning / Spring 1398 (2019) - Iran University of Science and Technology (IUST)"><b>Deep Learning</a></b></span>
+          <span style="margin-top: -2px;margin-bottom: -10px;" class="site-title"><a href="/course-2024/" title="Deep Learning / Spring 1398 (2019) - Shanghai Normal University (SHNU)"><b>Deep Learning</a></b></span>
           <br/>
           <span style="color: #ffffffb3;font-size: 12px;font-weight: bold;margin-top: 10px;display: block;">Spring 1398 (2019)</span>
           </td>
@@ -53,12 +53,12 @@
     <div class="trigger"><h1>Main Navigation</h1>
 
  <ul class="menu">
-    <li><a class="page-link" href="/972/"><i class="fa fa-home fa-lg"></i> Home</a></li>
-    <li><a class="page-link" href="/972/schedule/"><i class="fas fa-calendar-alt"></i> Schedule</a></li>
-    <li><a class="page-link" href="/972/lectures/"><i class="fas fa-book-reader"></i> Lectures</a></li>
-    <li><a class="page-link" href="/972/assignments/"><i class="fas fa-user-graduate"></i> Assignments</a></li>
-    <li><a class="page-link" href="/972/final_project/"><i class="fas fa-user-graduate"></i> Final Project</a></li>
-    <li><a class="page-link" href="/972/course-materials/"><i class="fas fa-book"></i> Course Materials</a></li>
+    <li><a class="page-link" href="/course-2024/"><i class="fa fa-home fa-lg"></i> Home</a></li>
+    <li><a class="page-link" href="/course-2024/schedule/"><i class="fas fa-calendar-alt"></i> Schedule</a></li>
+    <li><a class="page-link" href="/course-2024/lectures/"><i class="fas fa-book-reader"></i> Lectures</a></li>
+    <li><a class="page-link" href="/course-2024/assignments/"><i class="fas fa-user-graduate"></i> Assignments</a></li>
+    <li><a class="page-link" href="/course-2024/final_project/"><i class="fas fa-user-graduate"></i> Final Project</a></li>
+    <li><a class="page-link" href="/course-2024/course-materials/"><i class="fas fa-book"></i> Course Materials</a></li>
 </ul>
 
      </div>  
@@ -198,10 +198,10 @@
     
     <p style="font-weight: bold">Download
       
-      [<a href="/972/static_files/assignments/assignment_05.ipynb">problems</a>]
+      [<a href="/course-2024/static_files/assignments/assignment_05.ipynb">problems</a>]
       
       
-      [<a href="/972/static_files/assignments/assignment_05_preview.html">show preview</a>]
+      [<a href="/course-2024/static_files/assignments/assignment_05_preview.html">show preview</a>]
       
       
       
@@ -252,14 +252,14 @@
 
   <div class="wrapper">
 
-<!--     <h2 class="footer-heading">Iran University of Science and Technology (IUST)</h2> -->
+<!--     <h2 class="footer-heading">Shanghai Normal University (SHNU)</h2> -->
          <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
  
           <ul class="contact-list">
-          <li><strong>Iran University of Science and Technology (IUST)</strong></li>
+          <li><strong>Shanghai Normal University (SHNU)</strong></li>
 			<li></li>
-          <li><a href="mailto:instructor-last-name@iust.ac.ir">instructor-last-name@iust.ac.ir</a></li>
+          <li><a href="mailto:instructor-last-name@SHNU.ac.ir">instructor-last-name@SHNU.ac.ir</a></li>
         </ul>
       </div>
 
@@ -268,7 +268,7 @@
 
          <p class="text">
 School of Computer Engineering<br />
-Iran University of Science and Technology<br />
+Shanghai Normal University<br />
 Tehran, Iran<br />
 
       </div>
@@ -293,8 +293,8 @@ Tehran, Iran<br />
 
           
   <li>
-    <a href="http://webpages.iust.ac.ir/pilehvar/">
-      <i class="fas fa-globe" style="color:gray"></i> webpages.iust.ac.ir/pilehvar/
+    <a href="http://webpages.SHNU.ac.ir/pilehvar/">
+      <i class="fas fa-globe" style="color:gray"></i> webpages.SHNU.ac.ir/pilehvar/
     </a>
   </li>
 

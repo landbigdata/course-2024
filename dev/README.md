@@ -2,8 +2,8 @@ Development strategy
 =======================================================
 
 # How to build & contribute
-1. clone repository `git clone https://github.com/iust-deep-learning/972.git`
-2. `cd 972/dev`
+1. clone repository `git clone https://github.com/landbigdata/course-2024.git`
+2. `cd course-2024/dev`
 3. install requirements:
    `gem install jekyll-jalali`
 4. add your content, apply your changes, watch them: `jekyll serve`.

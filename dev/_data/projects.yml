@@ -49,9 +49,9 @@ featured_projects:
     abstract: |
       In this project, we use different classification techniques for the task of classifying advertisements in the Divar dataset. we first use a Support Vector Machine along with bag-of-words as features and set a baseline. We then use a simple Artificial Neural Network with word embeddings as features and study the effects of different settings for these word embeddings on the performance of the model. Next, we use Convolutional Neural Networks and experiment with various hyper-parameters and find the best setting for this model...
     authors: M. Nasser
-    github: https://github.com/mehrdad-naser-73/iust-dl-final
+    github: https://github.com/mehrdad-naser-73/SHNU-dl-final
     report: /static_files/project_reports/ad.pdf
-    jupyter: https://github.com/mehrdad-naser-73/iust-dl-final/blob/master/project.ipynb
+    jupyter: https://github.com/mehrdad-naser-73/SHNU-dl-final/blob/master/project.ipynb
     presentation: /static_files/project_presentations/ad.pptx
 
 
@@ -93,7 +93,7 @@ other_projects:
 
   - title: Turn Detection In Textual Conversations
     authors: Z. Sayedi, A. Pourdabiri
-    github: https://github.com/Amin-PD/iust-deep-learning-project
+    github: https://github.com/Amin-PD/landbigdata-project
     report: /static_files/project_reports/turn.pdf
     presentation: /static_files/project_presentations/turn.pptx
 
@@ -120,7 +120,7 @@ other_projects:
 
   - title: Speaker Recognition using Deep Learning
     authors: M. Mohammadi
-    github: https://github.com/mohsenoon/iust-dl97-project
-    jupyter: https://github.com/mohsenoon/iust-dl97-project/blob/master/iust_dl97_project.ipynb
+    github: https://github.com/mohsenoon/SHNU-dl97-project
+    jupyter: https://github.com/mohsenoon/SHNU-dl97-project/blob/master/SHNU_dl97_project.ipynb
     report: /static_files/project_reports/recm.pdf
     # presentation: /static_files/project_presentations/turn.pptx

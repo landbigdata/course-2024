@@ -87,8 +87,8 @@ To have an estimate of how much and how well you should write this report please
 **Note**: We have prepared a template for your final report, and you should put your report in this template. This template has been prepared in Persian and English, and you are free to write in any language you are comfortable with.
 
 **Download LaTeX Templates:**
-- English: [[zip]({{ "/static_files/final_report_template_english.zip" | prepend: site.baseurl }})] [[Overleaf](https://www.overleaf.com/latex/templates/iust-project-report-template-english/ndvtcyxryznf)]
-- Persian: [[zip]({{ "/static_files/final_report_template_persian.zip" | prepend: site.baseurl }})] [[Overleaf](https://www.overleaf.com/latex/templates/iust-project-report-template-persian/tjfhjwzrwdvh)]
+- English: [[zip]({{ "/static_files/final_report_template_english.zip" | prepend: site.baseurl }})] [[Overleaf](https://www.overleaf.com/latex/templates/SHNU-project-report-template-english/ndvtcyxryznf)]
+- Persian: [[zip]({{ "/static_files/final_report_template_persian.zip" | prepend: site.baseurl }})] [[Overleaf](https://www.overleaf.com/latex/templates/SHNU-project-report-template-persian/tjfhjwzrwdvh)]
 
 
 **# Deliverables:**

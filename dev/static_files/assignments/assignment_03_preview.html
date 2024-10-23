@@ -13112,7 +13112,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Assignment-#3">Assignment #3<a class="anchor-link" href="#Assignment-#3">&#182;</a></h1><p>Deep Learning / Spring 1398, Iran University of Science and Technology</p>
+<h1 id="Assignment-#3">Assignment #3<a class="anchor-link" href="#Assignment-#3">&#182;</a></h1><p>Deep Learning / Spring 1398, Shanghai Normal University</p>
 <hr>
 
 </div>
@@ -13140,8 +13140,8 @@ div#notebook {
 <li><strong>Before starting to work on the assignment please fill your name in the next section <em>AND Remember to RUN the cell.</em> </strong></li>
 </ul>
 <p><br/></p>
-<p>Assignment Page: <a href="https://iust-deep-learning.github.io/972/assignments/03_cnn">https://iust-deep-learning.github.io/972/assignments/03_cnn</a></p>
-<p>Course Forum: <a href="https://groups.google.com/forum/#!forum/dl972/">https://groups.google.com/forum/#!forum/dl972/</a></p>
+<p>Assignment Page: <a href="https://landbigdata.github.io/course-2024/assignments/03_cnn">https://landbigdata.github.io/course-2024/assignments/03_cnn</a></p>
+<p>Course Forum: <a href="https://groups.google.com/forum/#!forum/dlcourse-2024/">https://groups.google.com/forum/#!forum/dlcourse-2024/</a></p>
 
 </div>
 </div>
@@ -13214,7 +13214,7 @@ div#notebook {
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>From the first assignment, you might remember that we generally normalize the inputs of a neural network to speed up the convergence. So if the "normalization" works, why not try it on the activation values? How can we improve training by normalizing the values of intermediate layers?</p>
 <p>Here is an intermediate layer $l$ in some neural network:</p>
-<p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg03_assets/01_intermediate_layer.jpg" width="500"/></p>
+<p align="center"><img src="https://landbigdata.github.io/course-2024/static_files/assignments/asg03_assets/01_intermediate_layer.jpg" width="500"/></p>
 </div>
 </div>
 </div>
@@ -13377,14 +13377,14 @@ $$</p>
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Imagine a super simple neural network:</p>
 <p><br/></p>
-<p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg03_assets/02_simple_nn.png" width="300"/>
+<p align="center"><img src="https://landbigdata.github.io/course-2024/static_files/assignments/asg03_assets/02_simple_nn.png" width="300"/>
 <br>
   [[source](https://blog.paperspace.com/busting-the-myths-about-batch-normalization/)]
 </p><p>&lt;/br&gt;
 During the training, Our optimizer calculates the gradients with respect to weights. Take layer <strong>a</strong> as an example; Optimizer calucates  $\frac{\partial L}{\partial a}$ and then it updates the weights for this layer. Unfortunately,  it means that weight update for Layer <strong>a</strong> only depends on the sensitivity of loss function to that weight. However, changing weights of initial layers can completely effect the statistics of any futher layer.</p>
 <p>With the presence of Batch Normalization, our optimizer package can now adjust two parameters $\gamma$, $\beta$ to change statistics of any layer, rather than entire weight matrix. It makes the training of any layer independent and also introduces some checkpointing mechanism.</p>
 <p>Besides, recent findings show that batch normalization smoothes the landscape/surface of the loss function, effectively making the optimization performance less dependant on the initial state.</p>
-<p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg03_assets/03_error_surface.jpg"  width="700"/>
+<p align="center"><img src="https://landbigdata.github.io/course-2024/static_files/assignments/asg03_assets/03_error_surface.jpg"  width="700"/>
 <br/>
   source: [2]
   </p>
@@ -13913,7 +13913,7 @@ During the training, Our optimizer calculates the gradients with respect to weig
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h4 id="Autoencoder:">Autoencoder:<a class="anchor-link" href="#Autoencoder:">&#182;</a></h4><p>An autoencoder neural network has the following architecture:</p>
-<p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg03_assets/06_autoencoder_structure.png" width="500"/>  
+<p align="center"><img src="https://landbigdata.github.io/course-2024/static_files/assignments/asg03_assets/06_autoencoder_structure.png" width="500"/>  
   [[source](https://en.wikipedia.org/wiki/Autoencoder)]
 </p><p>The encoder part usually takes the input (X) and makes a more dense representation of it (z) and the decoder part tries to make the output (X') from the coded representation. Since the network itself learns how to encode the input data into some meaningful feature representation,  we call this network an "autoencoder"'.</p>
 
@@ -14256,7 +14256,7 @@ So if we assume that input size is 28 by 28 (mnist image size), the output of th
 <p>There are various methods to conduct up-sampling operation, the first and the most simple method is to use  upsampling layers. An upsampling layer simply increases the size of input image using known interpolation methods (such as bi-linear or bi-cubic).</p>
 <p>Another way is using a convolution transpose layer (or known as deconvolution layer). In a normal convolution operation, we calculate the sum of the element-wise multiplication between the input matrix and kernel matrix. More concretely, the $h* h$ kernel is used to connect the $h^2$ values in the input matrix to $1$ value in the output matrix. A convolution operation forms a <strong>many-to-one</strong> relationship. On the other hand, a deconvolution operation is a  <strong>one-to-many</strong> operaion.</p>
 <p>As an example by using a convolution layer with kernel size (3, 3) on an image with size (4, 4), we get an image of size (2, 2). We can reverse this process and simply use a convolution transpose layer with kernel size (3, 3) on top of an image with size (2, 2) to get an upsampled version by size (4, 4). See the following picture for a better understanding:</p>
-<p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg03_assets/07_deconv.jpg
+<p align="center"><img src="https://landbigdata.github.io/course-2024/static_files/assignments/asg03_assets/07_deconv.jpg
 " width="800"/></p><p><br></p>
 <p>Using convolution transpose layer can have side effects, one of them is known as <strong>checkerboard artifacts</strong>. Read about this side effect and explain why do you think it happens?</p>
 
@@ -14421,12 +14421,12 @@ So if we assume that input size is 28 by 28 (mnist image size), the output of th
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg03_assets/04_img_seg.jpg"  width=500 /></p>
+<p><img src="https://landbigdata.github.io/course-2024/static_files/assignments/asg03_assets/04_img_seg.jpg"  width=500 /></p>
 <p><a href="https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef">source</a></p>
 <p>Semantic segmentation is one of the high-level computer vision tasks that helps the machins to understand a scene. In the semantic segmentation task, we aim to label an image at pixel level, so that we can detect the boundaries of an object in the picture. This task has many applications in the area of self-driving vehicles, human-computer interaction, virtual reality, etc.</p>
 <p>For example, if you have to explainthe up right image in the following picture, how you are going to do it? Is the following sentence is a good answer?</p>
 <p><strong>"Two men riding on a bike in front of a building on the road. And there is a car."</strong></p>
-<p><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg03_assets/05_img_seg_02.png" width=500></p>
+<p><img src="https://landbigdata.github.io/course-2024/static_files/assignments/asg03_assets/05_img_seg_02.png" width=500></p>
 <p><a href="http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf">source</a></p>
 <p>How a machine can generate such an information about the image? To generate such an explanation about a scene a machine should be able to detect different objects and their boundaries in the image.</p>
 
@@ -14486,7 +14486,7 @@ So if we assume that input size is 28 by 28 (mnist image size), the output of th
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Download the dataset and its labels</span>
 <span class="o">!</span> wget http://pub.ist.ac.at/~akolesnikov/HDSeg/HDSeg.tar
 
-<span class="o">!</span> wget https://iust-deep-learning.github.io/972/static_files/assignments/asg03_assets/download_imagenet.sh
+<span class="o">!</span> wget https://landbigdata.github.io/course-2024/static_files/assignments/asg03_assets/download_imagenet.sh
 <span class="o">!</span> bash download_imagenet.sh HorseSeg
 <span class="o">!</span> bash download_imagenet.sh DogSeg
 </pre></div>
@@ -14796,9 +14796,9 @@ So if we assume that input size is 28 by 28 (mnist image size), the output of th
 <span class="s1">    Jupyter.notebook.save_checkpoint();</span>
 <span class="s1">});</span>
 <span class="s1">&#39;&#39;&#39;</span>
-<span class="n">repo_name</span> <span class="o">=</span> <span class="s1">&#39;iust-deep-learning-assignments&#39;</span>
+<span class="n">repo_name</span> <span class="o">=</span> <span class="s1">&#39;landbigdata-assignments&#39;</span>
 <span class="n">submission_file_name</span> <span class="o">=</span> <span class="s1">&#39;dl_asg03__</span><span class="si">%s</span><span class="s1">__</span><span class="si">%s</span><span class="s1">.zip&#39;</span><span class="o">%</span><span class="p">(</span><span class="n">student_id</span><span class="p">,</span> <span class="n">student_name</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39; &#39;</span><span class="p">,</span>  <span class="s1">&#39;_&#39;</span><span class="p">))</span>
-<span class="n">course_url</span> <span class="o">=</span> <span class="s1">&#39;https://iust-deep-learning.github.io/972/&#39;</span>
+<span class="n">course_url</span> <span class="o">=</span> <span class="s1">&#39;https://landbigdata.github.io/course-2024/&#39;</span>
 
 <span class="o">!</span> tar xf hub-linux-amd64-2.10.0.tgz
 <span class="o">!</span> <span class="nb">cd</span> hub-linux-amd64-2.10.0/ <span class="o">&amp;&amp;</span> chmod a+x install <span class="o">&amp;&amp;</span> ./install

@@ -13116,7 +13116,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Assignment-#4-Solutions">Assignment #4 Solutions<a class="anchor-link" href="#Assignment-#4-Solutions">&#182;</a></h1><p>Deep Learning / Spring 1398, Iran University of Science and Technology</p>
+<h1 id="Assignment-#4-Solutions">Assignment #4 Solutions<a class="anchor-link" href="#Assignment-#4-Solutions">&#182;</a></h1><p>Deep Learning / Spring 1398, Shanghai Normal University</p>
 <hr>
 
 </div>
@@ -13144,7 +13144,7 @@ div#notebook {
 <li><strong>Before starting to work on the assignment please fill your name in the next section <em>AND Remember to RUN the cell.</em></strong></li>
 </ul>
 <p><br/></p>
-<p>Assignment Page: <a href="https://iust-deep-learning.github.io/972/assignments/04_nlp_intro">https://iust-deep-learning.github.io/972/assignments/04_nlp_intro</a></p>
+<p>Assignment Page: <a href="https://landbigdata.github.io/972/assignments/04_nlp_intro">https://landbigdata.github.io/972/assignments/04_nlp_intro</a></p>
 <p>Course Forum: <a href="https://groups.google.com/forum/#!forum/dl972/">https://groups.google.com/forum/#!forum/dl972/</a></p>
 
 </div>
@@ -14253,7 +14253,7 @@ villain /ameriaca -&gt; 0.024049778
 <p>Obviously, a neural network cannot guess the type entirely based on a single word. We need to provide an extra piece of information to help the decision. This piece of information is called "Context" . We can decide if the word Apple is referring to the company or fruit by seeing it in a sentence (context). However, feeding a complete sentence through a network is inefficient as it makes the input layer really big even for a 10-word sentence (10 * 300 = 3000, assuming an embedding size of 300).</p>
 <p>To make training such network possible, we make the input only by including K surrounding neighbor words. hence, apple can be easily classified as a company by looking at the context window [ the, apple, corporation ]</p>
 <p><br></p>
-<p><p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg04_assets/01_window_based.jpg" width="500"/>  
+<p><p align="center"><img src="https://landbigdata.github.io/972/static_files/assignments/asg04_assets/01_window_based.jpg" width="500"/>  
 </p>
 <br></p>
 <p>In a window-based classifier, every input sentence $X = [\mathbf{x^{(1)}}, ... , \mathbf{x^{(T)}}]$ with a label sequence $Y = [\mathbf{y^{(1)}}, ..., \mathbf{y^{(T)}}]$  is split into $T$ <code>&lt;context window, center word label&gt;</code> data points. We create a context window $\mathbf{w^{(t)}}$ for every token $\mathbf{x^{(t)}}$ in the original sentence by concatenating its k surrounding neighbors: $\mathbf{w^{(t)}} = [\mathbf{x^{(t-k)}}; ...; \mathbf{x^{(t)}}; ...; \mathbf{x^{(t+k)}}]$, therefore our new data point is created as $\langle \mathbf{w^{(t)}} , \mathbf{y^{(t)}} \rangle$.</p>
@@ -14276,7 +14276,7 @@ villain /ameriaca -&gt; 0.024049778
 <div class="prompt input_prompt">In&nbsp;[0]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="o">!</span> wget -q https://iust-deep-learning.github.io/972/static_files/assignments/asg04_assets/data.tar.gz
+<div class=" highlight hl-ipython3"><pre><span></span><span class="o">!</span> wget -q https://landbigdata.github.io/972/static_files/assignments/asg04_assets/data.tar.gz
 <span class="o">!</span> tar xvfz data.tar.gz &gt; /dev/null
 
 <span class="kn">from</span> <span class="nn">IPython.display</span> <span class="k">import</span> <span class="n">SVG</span>
@@ -15977,7 +15977,7 @@ $$
 \mathbf{R} = \frac{1}{N} \sum_{i=1}^{N} e_{x^{(i)}} \ \ \mathbf{R} \in \mathbb{R}^d
 $$<p>where $e_{x^{(i)}}$ is an embedding vector for the token $x^{(i)}$.</p>
 <p><br></p>
-<p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg04_assets/02_bag_of_word.jpg" width="400"/>  
+<p align="center"><img src="https://landbigdata.github.io/972/static_files/assignments/asg04_assets/02_bag_of_word.jpg" width="400"/>  
 </p><p>Having such a simple model will enable us to analyze and understand its capabilities more easily. In addition, we will try one of the state-of-the-art text processing tools, called Flair, which can be run on GPUs. The task is text classification on the AG News corpus, which consists of news articles from more than 2000 news sources. Our split has 110K samples for the training and 10k for the validation set. Dataset examples are labeled with 4 major labels: <code>{World, Sports, Business, Sci/Tech}</code></p>
 
 </div>
@@ -16482,10 +16482,10 @@ x_ner:  &lt;org&gt; employed new &lt;cardinal&gt; people
 <p>Up to now, we've investigated window-based neural networks and the bag-of-words model. Given their simple architectures, the representation power of these models mainly relies on the pre-trained embeddings. For example, a window-based model cannot understand the previous token's label which makes it struggle in identifying multi-word entities. While, adding a single word "<em>not</em>" can entirely change the meaning of a sentence, the BoW model is not sensitive to this as it ignores the order and computes the average embedding (in which single words do not play big roles).</p>
 <p>In contrast, RNNs read sentences word by word. At each step, the softmax classifier is forced to predict the label not only by using the input word but also using its context information. If we see the context information as a working memory for RNNs, it will be interesting to find what kind of information is stored in them while it parses a sentence.</p>
 <p>To visualize an RNN memory, we will train a language model on a huge chunk of text, and use the validation set to analyze its brain.  Then, we will watch each context neuron activation to see if it shows a meaningful pattern while it goes through a sentence. The following figure illustrates a random neuron in the memory which captures the concept of line length. It gradually turns off by reach the sentence end. Probably our model uses this neuron to handle "\n" generation.</p>
-<p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg04_assets/03_sentence_length.jpg" width="800"/>   
+<p align="center"><img src="https://landbigdata.github.io/972/static_files/assignments/asg04_assets/03_sentence_length.jpg" width="800"/>   
 </p>
 <p align="center"><a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/">[source]</a></p><p>Here is another neuron which is sensitive when it's inside a quote.</p>
-<p align="center"><img src="https://iust-deep-learning.github.io/972/static_files/assignments/asg04_assets/04_quotes.jpg" width="800"/>   
+<p align="center"><img src="https://landbigdata.github.io/972/static_files/assignments/asg04_assets/04_quotes.jpg" width="800"/>   
 </p>
 <p align="center"><a href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/">[source]</a></p>
 </div>
