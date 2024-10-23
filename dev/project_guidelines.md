@@ -14,7 +14,7 @@ permalink: /final_project/guidelines/
 <br>
 </div>
 
-The course project is one of those great opportunities in which you can apply your newly learned skills towards real-life problems. It offers you the chance to build a Scientific Writing pipeline, tune and debug a machine learning model, and experiment with one of the world's most successful Computer Science approaches. It is also responsible for a significant portion of your final grade.
+The course project is one of those great opportunities in which you can apply your newly learned skills towards real-life problems. It offers you the chance to build a 科技论文写作：信息获取与表达 pipeline, tune and debug a machine learning model, and experiment with one of the world's most successful Computer Science approaches. It is also responsible for a significant portion of your final grade.
 
 We strongly suggest you do the project in a team.  A team can have a maximum of **two members** and remember we will review each member's contribution individually. For the project topic, there are two options, you can either define the project based on our default topics or implement your own idea. It is OK to use your thesis as the course project but **keep in mind** that you still need to match up our requirements such as writing a final report, submitting the project proposal, and reporting the progress on the corresponding milestone.
 
@@ -29,7 +29,7 @@ No matter how you came with the project idea (whether it's towards your Master/P
 
 1. **Title:** A statement to briefly explain the problem/task and a solution you're going to propose. Example: "Grammatical error corrections using an augmented sequence to sequence model”.
 2. **Problem** **d****efinition:** Describe what problem you are going to solve. What goal(s) you're trying to achieve.  Why do you think it is important/challenging? Explain the inputs and outputs of your system in detail. Give us an example if applicable. 
-3. **Dataset:** A high-quality dataset is a critical prerequisite for Scientific Writing. Please specify the dataset you will use, also include its size and license (if you want to evaluate your model on several datasets, go ahead and list all of them). If you need any preprocessing step, please describe it. Sometimes it is necessary to collect data yourself. Explain how you are going to do that and how you plan to label the collected data (if applicable).
+3. **Dataset:** A high-quality dataset is a critical prerequisite for 科技论文写作：信息获取与表达. Please specify the dataset you will use, also include its size and license (if you want to evaluate your model on several datasets, go ahead and list all of them). If you need any preprocessing step, please describe it. Sometimes it is necessary to collect data yourself. Explain how you are going to do that and how you plan to label the collected data (if applicable).
 4. **Evaluation** **m****etric:** This is a measurement of how well your model performed its desired task. It should be a well-defined, numerical, comparable, automatic evaluation metric (for example: F1-measure or BLEU score). 
 5. **Baseline** **m****ethod:** Describe a baseline method for solving this problem. Make it clear that you will implement it yourself, or will use a previously published score. Baseline is a trivial approach. The first idea that can be thought. You suggest an algorithm that should be better than the baseline at least. For example feeding a word with its neighbors is a baseline to name entity recognition task.
 
@@ -78,7 +78,7 @@ Your final report is the most important part of your project, and it must be com
   * What are the benefits of your proposed model against other approaches?
 7. **References**: You must cite all of the papers and codes that you have used in your project.
 
-You will not be penalized if your system performs poorly, if you analyze the model output and explain why it failed which is much more important to us. Your report will be graded based on its quality. By quality, we mean how well you explained, expanded, and conveyed your problem and its challenges; how well you could persuade usage of a specific model for solving a particular task, your results and implementation, your writing quality, and your understanding of the problem and Scientific Writing tools.
+You will not be penalized if your system performs poorly, if you analyze the model output and explain why it failed which is much more important to us. Your report will be graded based on its quality. By quality, we mean how well you explained, expanded, and conveyed your problem and its challenges; how well you could persuade usage of a specific model for solving a particular task, your results and implementation, your writing quality, and your understanding of the problem and 科技论文写作：信息获取与表达 tools.
 
 To have an estimate of how much and how well you should write this report please look at the [here](http://cs229.stanford.edu/proj2018/) and [here](http://cs229.stanford.edu/proj2017/)
 

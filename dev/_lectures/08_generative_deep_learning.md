@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2019-05-19T08:00:00+3:30
-title: Generative Scientific Writing
+title: Generative 科技论文写作：信息获取与表达
 slides: https://drive.google.com/file/d/1ZKIB32IuLGYgW3-fv8d-cjyH_c-vLdnH/view?usp=sharing
 tldr: "Text generation with LSTMs, DeepDream, Neural Style Transfer, concept space, variational autoencoders (VAE), generative adversarial networks (GAN)"
 thumbnail: /static_files/thumbnails/lec08.jpg

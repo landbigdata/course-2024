@@ -8,14 +8,14 @@ permalink: /course-materials/
 
 ## Book
 
-A part of this course is based on "Scientific Writing with Python" by Francois Chollet.
+A part of this course is based on "科技论文写作：信息获取与表达 with Python" by Francois Chollet.
 Subsequent sources will be added to the following section.
  
 ## Additional Course Materials
 
 * Andrew Ng - [deeplearning.ai](www.deeplearning.ai) and [Coursera course](https://www.coursera.org/specializations/deep-learning)
-* [Scientific Writing](https://eu.udacity.com/course/deep-learning--ud730) course at Udacity
-* [Scientific Writing textbook](https://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio and Aaron Courville  
+* [科技论文写作：信息获取与表达](https://eu.udacity.com/course/deep-learning--ud730) course at Udacity
+* [科技论文写作：信息获取与表达 textbook](https://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio and Aaron Courville  
 * A review of [optimization techniques](http://ruder.io/optimizing-gradient-descent/) for DL 
 * A review of [Transfer learning](http://ruder.io/transfer-learning/)
 
