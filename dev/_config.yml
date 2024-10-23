@@ -4,7 +4,7 @@ course_name: 科技论文写作：信息获取与表达
 course_description: "This graduate course is a dive into applied 科技论文写作：信息获取与表达. The students will learn how to implement and train neural networks in a variety of tasks across image, sound, and text processing. As a prerequisite, the students are expected to have a basic knowledge of neural networks and be familiar with the concepts behind their structure and training (backpropagation, etc)." 
 course_semester: "秋季 5B108 (2024)"
 description: |
-    Instructor: Mengmeng Li
+    Instructor: 李蒙蒙
 
 message: Register to our Google <a href="https://groups.google.com/forum/#!forum/dlcourse-2024/">groups page</a> to get course notifications via email.
 baseurl: "/course-2024" # the subpath of your site, e.g. /blog/ haha
