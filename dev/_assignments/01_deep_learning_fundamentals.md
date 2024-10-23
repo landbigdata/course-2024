@@ -2,7 +2,7 @@
 type: assignment
 date: 2019-03-05T20:00:00+4:30
 due: 2019-03-15T23:59:00+3:30
-title: 'Assignment #1 - Deep Learning Fundamentals'
+title: 'Assignment #1 - Scientific Writing Fundamentals'
 pdf: /static_files/assignments/assignment_01.ipynb
 preview: /static_files/assignments/assignment_01_preview.html
 solutions: /static_files/assignments/assignment_01_solutions.html
