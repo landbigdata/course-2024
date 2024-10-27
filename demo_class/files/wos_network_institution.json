@@ -1,0 +1,7909 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 12,
+				"label": "anhui univ finance & econ",
+				"x": 0.5984,
+				"y": -0.0655,
+				"cluster": 2,
+				"weights": {
+					"Links": 49.0000,
+					"Total link strength": 2720.0000,
+					"Documents": 10.0000,
+					"Citations": 1016.0000,
+					"Norm. citations": 9.1915
+				},
+				"scores": {
+					"Avg. pub. year": 2021.9000,
+					"Avg. citations": 101.6000,
+					"Avg. norm. citations": 0.9191
+				}
+			},
+			{
+				"id": 22,
+				"label": "beijing forestry univ",
+				"x": -1.1273,
+				"y": -0.3510,
+				"cluster": 1,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 947.0000,
+					"Documents": 5.0000,
+					"Citations": 606.0000,
+					"Norm. citations": 3.8630
+				},
+				"scores": {
+					"Avg. pub. year": 2020.2000,
+					"Avg. citations": 121.2000,
+					"Avg. norm. citations": 0.7726
+				}
+			},
+			{
+				"id": 23,
+				"label": "beijing inst technol",
+				"x": 0.6514,
+				"y": 0.9137,
+				"cluster": 3,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 5070.0000,
+					"Documents": 12.0000,
+					"Citations": 1551.0000,
+					"Norm. citations": 16.3043
+				},
+				"scores": {
+					"Avg. pub. year": 2022.2500,
+					"Avg. citations": 129.2500,
+					"Avg. norm. citations": 1.3587
+				}
+			},
+			{
+				"id": 27,
+				"label": "beijing key lab energy econ & environm management",
+				"x": 0.8826,
+				"y": 0.8577,
+				"cluster": 3,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 3189.0000,
+					"Documents": 6.0000,
+					"Citations": 913.0000,
+					"Norm. citations": 10.4176
+				},
+				"scores": {
+					"Avg. pub. year": 2022.3333,
+					"Avg. citations": 152.1667,
+					"Avg. norm. citations": 1.7363
+				}
+			},
+			{
+				"id": 29,
+				"label": "beijing normal univ",
+				"x": -0.3560,
+				"y": 0.0994,
+				"cluster": 1,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 1835.0000,
+					"Documents": 9.0000,
+					"Citations": 1687.0000,
+					"Norm. citations": 9.0733
+				},
+				"scores": {
+					"Avg. pub. year": 2020.3333,
+					"Avg. citations": 187.4444,
+					"Avg. norm. citations": 1.0081
+				}
+			},
+			{
+				"id": 44,
+				"label": "cent south univ",
+				"x": 1.0452,
+				"y": 0.7199,
+				"cluster": 3,
+				"weights": {
+					"Links": 49.0000,
+					"Total link strength": 1507.0000,
+					"Documents": 5.0000,
+					"Citations": 578.0000,
+					"Norm. citations": 5.8489
+				},
+				"scores": {
+					"Avg. pub. year": 2022.4000,
+					"Avg. citations": 115.6000,
+					"Avg. norm. citations": 1.1698
+				}
+			},
+			{
+				"id": 64,
+				"label": "china univ geosci",
+				"x": -0.4427,
+				"y": 0.0915,
+				"cluster": 1,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 1884.0000,
+					"Documents": 11.0000,
+					"Citations": 1458.0000,
+					"Norm. citations": 11.1072
+				},
+				"scores": {
+					"Avg. pub. year": 2020.9091,
+					"Avg. citations": 132.5455,
+					"Avg. norm. citations": 1.0097
+				}
+			},
+			{
+				"id": 65,
+				"label": "china univ min & technol",
+				"x": 0.1924,
+				"y": -0.0571,
+				"cluster": 2,
+				"weights": {
+					"Links": 49.0000,
+					"Total link strength": 1241.0000,
+					"Documents": 8.0000,
+					"Citations": 893.0000,
+					"Norm. citations": 6.6971
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000,
+					"Avg. citations": 111.6250,
+					"Avg. norm. citations": 0.8371
+				}
+			},
+			{
+				"id": 70,
+				"label": "chinese acad sci",
+				"x": -0.9703,
+				"y": -0.2189,
+				"cluster": 1,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 3031.0000,
+					"Documents": 20.0000,
+					"Citations": 3271.0000,
+					"Norm. citations": 17.6342
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 163.5500,
+					"Avg. norm. citations": 0.8817
+				}
+			},
+			{
+				"id": 74,
+				"label": "chinese univ hong kong",
+				"x": -1.1395,
+				"y": -0.5797,
+				"cluster": 1,
+				"weights": {
+					"Links": 36.0000,
+					"Total link strength": 957.0000,
+					"Documents": 5.0000,
+					"Citations": 939.0000,
+					"Norm. citations": 3.9798
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6000,
+					"Avg. citations": 187.8000,
+					"Avg. norm. citations": 0.7960
+				}
+			},
+			{
+				"id": 77,
+				"label": "chongqing univ",
+				"x": -0.2741,
+				"y": -0.2836,
+				"cluster": 1,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 1808.0000,
+					"Documents": 8.0000,
+					"Citations": 811.0000,
+					"Norm. citations": 8.9489
+				},
+				"scores": {
+					"Avg. pub. year": 2022.3750,
+					"Avg. citations": 101.3750,
+					"Avg. norm. citations": 1.1186
+				}
+			},
+			{
+				"id": 81,
+				"label": "city univ hong kong",
+				"x": -1.2318,
+				"y": -0.6750,
+				"cluster": 1,
+				"weights": {
+					"Links": 50.0000,
+					"Total link strength": 2011.0000,
+					"Documents": 11.0000,
+					"Citations": 1698.0000,
+					"Norm. citations": 11.0821
+				},
+				"scores": {
+					"Avg. pub. year": 2020.3636,
+					"Avg. citations": 154.3636,
+					"Avg. norm. citations": 1.0075
+				}
+			},
+			{
+				"id": 96,
+				"label": "dalian univ technol",
+				"x": 0.5741,
+				"y": 0.7698,
+				"cluster": 3,
+				"weights": {
+					"Links": 51.0000,
+					"Total link strength": 2386.0000,
+					"Documents": 7.0000,
+					"Citations": 896.0000,
+					"Norm. citations": 6.5394
+				},
+				"scores": {
+					"Avg. pub. year": 2021.2857,
+					"Avg. citations": 128.0000,
+					"Avg. norm. citations": 0.9342
+				}
+			},
+			{
+				"id": 103,
+				"label": "east china normal univ",
+				"x": 0.6536,
+				"y": -0.1715,
+				"cluster": 2,
+				"weights": {
+					"Links": 49.0000,
+					"Total link strength": 1126.0000,
+					"Documents": 5.0000,
+					"Citations": 493.0000,
+					"Norm. citations": 5.4703
+				},
+				"scores": {
+					"Avg. pub. year": 2021.8000,
+					"Avg. citations": 98.6000,
+					"Avg. norm. citations": 1.0941
+				}
+			},
+			{
+				"id": 112,
+				"label": "fudan univ",
+				"x": 0.6016,
+				"y": -0.3874,
+				"cluster": 2,
+				"weights": {
+					"Links": 51.0000,
+					"Total link strength": 634.0000,
+					"Documents": 5.0000,
+					"Citations": 792.0000,
+					"Norm. citations": 4.8457
+				},
+				"scores": {
+					"Avg. pub. year": 2021.2000,
+					"Avg. citations": 158.4000,
+					"Avg. norm. citations": 0.9691
+				}
+			},
+			{
+				"id": 116,
+				"label": "griffith univ",
+				"x": -1.3793,
+				"y": -0.8332,
+				"cluster": 1,
+				"weights": {
+					"Links": 37.0000,
+					"Total link strength": 676.0000,
+					"Documents": 6.0000,
+					"Citations": 1014.0000,
+					"Norm. citations": 6.1094
+				},
+				"scores": {
+					"Avg. pub. year": 2018.6667,
+					"Avg. citations": 169.0000,
+					"Avg. norm. citations": 1.0182
+				}
+			},
+			{
+				"id": 126,
+				"label": "guangzhou univ",
+				"x": -0.3330,
+				"y": -0.1382,
+				"cluster": 1,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 1454.0000,
+					"Documents": 8.0000,
+					"Citations": 511.0000,
+					"Norm. citations": 7.2248
+				},
+				"scores": {
+					"Avg. pub. year": 2022.6250,
+					"Avg. citations": 63.8750,
+					"Avg. norm. citations": 0.9031
+				}
+			},
+			{
+				"id": 128,
+				"label": "guizhou univ finance & econ",
+				"x": 0.8718,
+				"y": 0.1794,
+				"cluster": 2,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 1552.0000,
+					"Documents": 7.0000,
+					"Citations": 446.0000,
+					"Norm. citations": 12.1330
+				},
+				"scores": {
+					"Avg. pub. year": 2023.5714,
+					"Avg. citations": 63.7143,
+					"Avg. norm. citations": 1.7333
+				}
+			},
+			{
+				"id": 130,
+				"label": "hainan univ",
+				"x": 0.7389,
+				"y": -0.0169,
+				"cluster": 2,
+				"weights": {
+					"Links": 51.0000,
+					"Total link strength": 1744.0000,
+					"Documents": 7.0000,
+					"Citations": 554.0000,
+					"Norm. citations": 9.3384
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 79.1429,
+					"Avg. norm. citations": 1.3341
+				}
+			},
+			{
+				"id": 136,
+				"label": "hefei univ technol",
+				"x": 0.4869,
+				"y": -0.2052,
+				"cluster": 2,
+				"weights": {
+					"Links": 51.0000,
+					"Total link strength": 1613.0000,
+					"Documents": 5.0000,
+					"Citations": 434.0000,
+					"Norm. citations": 4.4352
+				},
+				"scores": {
+					"Avg. pub. year": 2022.6000,
+					"Avg. citations": 86.8000,
+					"Avg. norm. citations": 0.8870
+				}
+			},
+			{
+				"id": 141,
+				"label": "hohai univ",
+				"x": 0.2524,
+				"y": -0.3225,
+				"cluster": 2,
+				"weights": {
+					"Links": 49.0000,
+					"Total link strength": 921.0000,
+					"Documents": 6.0000,
+					"Citations": 664.0000,
+					"Norm. citations": 4.3708
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 110.6667,
+					"Avg. norm. citations": 0.7285
+				}
+			},
+			{
+				"id": 143,
+				"label": "hong kong polytech univ",
+				"x": -0.9846,
+				"y": -0.6441,
+				"cluster": 1,
+				"weights": {
+					"Links": 45.0000,
+					"Total link strength": 1386.0000,
+					"Documents": 8.0000,
+					"Citations": 895.0000,
+					"Norm. citations": 5.2793
+				},
+				"scores": {
+					"Avg. pub. year": 2020.8750,
+					"Avg. citations": 111.8750,
+					"Avg. norm. citations": 0.6599
+				}
+			},
+			{
+				"id": 149,
+				"label": "huazhong univ sci & technol",
+				"x": 0.0190,
+				"y": 0.0732,
+				"cluster": 2,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 2088.0000,
+					"Documents": 10.0000,
+					"Citations": 892.0000,
+					"Norm. citations": 7.4305
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000,
+					"Avg. citations": 89.2000,
+					"Avg. norm. citations": 0.7431
+				}
+			},
+			{
+				"id": 156,
+				"label": "hunan univ",
+				"x": 0.6665,
+				"y": 0.5411,
+				"cluster": 3,
+				"weights": {
+					"Links": 50.0000,
+					"Total link strength": 2495.0000,
+					"Documents": 10.0000,
+					"Citations": 1299.0000,
+					"Norm. citations": 9.4474
+				},
+				"scores": {
+					"Avg. pub. year": 2021.4000,
+					"Avg. citations": 129.9000,
+					"Avg. norm. citations": 0.9447
+				}
+			},
+			{
+				"id": 163,
+				"label": "ilma univ",
+				"x": 0.7429,
+				"y": 0.8842,
+				"cluster": 3,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 2995.0000,
+					"Documents": 8.0000,
+					"Citations": 856.0000,
+					"Norm. citations": 15.1051
+				},
+				"scores": {
+					"Avg. pub. year": 2022.8750,
+					"Avg. citations": 107.0000,
+					"Avg. norm. citations": 1.8881
+				}
+			},
+			{
+				"id": 173,
+				"label": "jiangsu univ",
+				"x": 0.8315,
+				"y": 0.3326,
+				"cluster": 3,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 3226.0000,
+					"Documents": 12.0000,
+					"Citations": 1850.0000,
+					"Norm. citations": 16.7538
+				},
+				"scores": {
+					"Avg. pub. year": 2022.1667,
+					"Avg. citations": 154.1667,
+					"Avg. norm. citations": 1.3962
+				}
+			},
+			{
+				"id": 175,
+				"label": "jiangxi normal univ",
+				"x": 0.0548,
+				"y": -0.4148,
+				"cluster": 2,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 849.0000,
+					"Documents": 5.0000,
+					"Citations": 317.0000,
+					"Norm. citations": 3.5527
+				},
+				"scores": {
+					"Avg. pub. year": 2022.4000,
+					"Avg. citations": 63.4000,
+					"Avg. norm. citations": 0.7105
+				}
+			},
+			{
+				"id": 181,
+				"label": "jinan univ",
+				"x": -0.0385,
+				"y": -0.2063,
+				"cluster": 2,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 907.0000,
+					"Documents": 5.0000,
+					"Citations": 461.0000,
+					"Norm. citations": 4.8474
+				},
+				"scores": {
+					"Avg. pub. year": 2022.6000,
+					"Avg. citations": 92.2000,
+					"Avg. norm. citations": 0.9695
+				}
+			},
+			{
+				"id": 211,
+				"label": "nanchang univ",
+				"x": 0.4646,
+				"y": 0.0352,
+				"cluster": 2,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 4509.0000,
+					"Documents": 19.0000,
+					"Citations": 1378.0000,
+					"Norm. citations": 17.1804
+				},
+				"scores": {
+					"Avg. pub. year": 2022.6842,
+					"Avg. citations": 72.5263,
+					"Avg. norm. citations": 0.9042
+				}
+			},
+			{
+				"id": 218,
+				"label": "nanjing univ",
+				"x": -0.6213,
+				"y": -0.0194,
+				"cluster": 1,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 1165.0000,
+					"Documents": 6.0000,
+					"Citations": 461.0000,
+					"Norm. citations": 3.1863
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000,
+					"Avg. citations": 76.8333,
+					"Avg. norm. citations": 0.5310
+				}
+			},
+			{
+				"id": 220,
+				"label": "nanjing univ finance & econ",
+				"x": 0.5553,
+				"y": 0.2071,
+				"cluster": 2,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 1798.0000,
+					"Documents": 5.0000,
+					"Citations": 318.0000,
+					"Norm. citations": 4.4558
+				},
+				"scores": {
+					"Avg. pub. year": 2022.8000,
+					"Avg. citations": 63.6000,
+					"Avg. norm. citations": 0.8912
+				}
+			},
+			{
+				"id": 221,
+				"label": "nanjing univ informat sci & technol",
+				"x": 0.1705,
+				"y": 0.5195,
+				"cluster": 3,
+				"weights": {
+					"Links": 48.0000,
+					"Total link strength": 718.0000,
+					"Documents": 5.0000,
+					"Citations": 415.0000,
+					"Norm. citations": 3.7569
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 83.0000,
+					"Avg. norm. citations": 0.7514
+				}
+			},
+			{
+				"id": 224,
+				"label": "nankai univ",
+				"x": 0.3089,
+				"y": 0.8338,
+				"cluster": 3,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 2523.0000,
+					"Documents": 6.0000,
+					"Citations": 451.0000,
+					"Norm. citations": 5.9035
+				},
+				"scores": {
+					"Avg. pub. year": 2022.3333,
+					"Avg. citations": 75.1667,
+					"Avg. norm. citations": 0.9839
+				}
+			},
+			{
+				"id": 252,
+				"label": "ocean univ china",
+				"x": 0.8993,
+				"y": 0.5897,
+				"cluster": 3,
+				"weights": {
+					"Links": 50.0000,
+					"Total link strength": 2366.0000,
+					"Documents": 7.0000,
+					"Citations": 687.0000,
+					"Norm. citations": 6.0222
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 98.1429,
+					"Avg. norm. citations": 0.8603
+				}
+			},
+			{
+				"id": 256,
+				"label": "peking univ",
+				"x": -0.3484,
+				"y": -0.4183,
+				"cluster": 1,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 2560.0000,
+					"Documents": 12.0000,
+					"Citations": 1354.0000,
+					"Norm. citations": 9.0650
+				},
+				"scores": {
+					"Avg. pub. year": 2021.1667,
+					"Avg. citations": 112.8333,
+					"Avg. norm. citations": 0.7554
+				}
+			},
+			{
+				"id": 277,
+				"label": "shandong univ",
+				"x": -0.0966,
+				"y": 0.5797,
+				"cluster": 3,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 1483.0000,
+					"Documents": 6.0000,
+					"Citations": 769.0000,
+					"Norm. citations": 8.1491
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 128.1667,
+					"Avg. norm. citations": 1.3582
+				}
+			},
+			{
+				"id": 282,
+				"label": "shanghai jiao tong univ",
+				"x": 0.7041,
+				"y": -0.2693,
+				"cluster": 2,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 1323.0000,
+					"Documents": 7.0000,
+					"Citations": 953.0000,
+					"Norm. citations": 9.1391
+				},
+				"scores": {
+					"Avg. pub. year": 2022.2857,
+					"Avg. citations": 136.1429,
+					"Avg. norm. citations": 1.3056
+				}
+			},
+			{
+				"id": 287,
+				"label": "shanghai univ",
+				"x": 0.3855,
+				"y": -0.3407,
+				"cluster": 2,
+				"weights": {
+					"Links": 49.0000,
+					"Total link strength": 1748.0000,
+					"Documents": 9.0000,
+					"Citations": 1267.0000,
+					"Norm. citations": 11.2610
+				},
+				"scores": {
+					"Avg. pub. year": 2021.8889,
+					"Avg. citations": 140.7778,
+					"Avg. norm. citations": 1.2512
+				}
+			},
+			{
+				"id": 289,
+				"label": "shanghai univ finance & econ",
+				"x": 0.3399,
+				"y": 0.0422,
+				"cluster": 2,
+				"weights": {
+					"Links": 51.0000,
+					"Total link strength": 3198.0000,
+					"Documents": 11.0000,
+					"Citations": 1627.0000,
+					"Norm. citations": 12.5253
+				},
+				"scores": {
+					"Avg. pub. year": 2021.9091,
+					"Avg. citations": 147.9091,
+					"Avg. norm. citations": 1.1387
+				}
+			},
+			{
+				"id": 313,
+				"label": "southwestern univ finance & econ",
+				"x": 0.5371,
+				"y": 0.4432,
+				"cluster": 3,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 4078.0000,
+					"Documents": 11.0000,
+					"Citations": 1363.0000,
+					"Norm. citations": 13.9129
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0909,
+					"Avg. citations": 123.9091,
+					"Avg. norm. citations": 1.2648
+				}
+			},
+			{
+				"id": 315,
+				"label": "sun yat sen univ",
+				"x": -0.6625,
+				"y": -0.4124,
+				"cluster": 1,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 1793.0000,
+					"Documents": 9.0000,
+					"Citations": 1164.0000,
+					"Norm. citations": 7.1165
+				},
+				"scores": {
+					"Avg. pub. year": 2020.1111,
+					"Avg. citations": 129.3333,
+					"Avg. norm. citations": 0.7907
+				}
+			},
+			{
+				"id": 325,
+				"label": "tianjin univ",
+				"x": -0.2785,
+				"y": -0.5067,
+				"cluster": 1,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 1316.0000,
+					"Documents": 7.0000,
+					"Citations": 1132.0000,
+					"Norm. citations": 7.3561
+				},
+				"scores": {
+					"Avg. pub. year": 2021.2857,
+					"Avg. citations": 161.7143,
+					"Avg. norm. citations": 1.0509
+				}
+			},
+			{
+				"id": 329,
+				"label": "tongji univ",
+				"x": -0.7181,
+				"y": -0.6691,
+				"cluster": 1,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 1339.0000,
+					"Documents": 7.0000,
+					"Citations": 1183.0000,
+					"Norm. citations": 7.2525
+				},
+				"scores": {
+					"Avg. pub. year": 2020.2857,
+					"Avg. citations": 169.0000,
+					"Avg. norm. citations": 1.0361
+				}
+			},
+			{
+				"id": 330,
+				"label": "tsinghua univ",
+				"x": -0.5476,
+				"y": 0.1248,
+				"cluster": 1,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 1295.0000,
+					"Documents": 13.0000,
+					"Citations": 2856.0000,
+					"Norm. citations": 18.9431
+				},
+				"scores": {
+					"Avg. pub. year": 2019.7692,
+					"Avg. citations": 219.6923,
+					"Avg. norm. citations": 1.4572
+				}
+			},
+			{
+				"id": 352,
+				"label": "univ chinese acad sci",
+				"x": -1.1170,
+				"y": -0.1590,
+				"cluster": 1,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 1837.0000,
+					"Documents": 9.0000,
+					"Citations": 1141.0000,
+					"Norm. citations": 8.4660
+				},
+				"scores": {
+					"Avg. pub. year": 2020.7778,
+					"Avg. citations": 126.7778,
+					"Avg. norm. citations": 0.9407
+				}
+			},
+			{
+				"id": 368,
+				"label": "univ hong kong",
+				"x": -1.1388,
+				"y": -0.6691,
+				"cluster": 1,
+				"weights": {
+					"Links": 45.0000,
+					"Total link strength": 2177.0000,
+					"Documents": 17.0000,
+					"Citations": 2383.0000,
+					"Norm. citations": 12.8099
+				},
+				"scores": {
+					"Avg. pub. year": 2019.4118,
+					"Avg. citations": 140.1765,
+					"Avg. norm. citations": 0.7535
+				}
+			},
+			{
+				"id": 384,
+				"label": "univ n carolina",
+				"x": -0.4520,
+				"y": -0.2638,
+				"cluster": 1,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 1557.0000,
+					"Documents": 6.0000,
+					"Citations": 1125.0000,
+					"Norm. citations": 5.4380
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 187.5000,
+					"Avg. norm. citations": 0.9063
+				}
+			},
+			{
+				"id": 426,
+				"label": "wuhan inst technol",
+				"x": 0.3798,
+				"y": 0.2687,
+				"cluster": 2,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 1783.0000,
+					"Documents": 5.0000,
+					"Citations": 145.0000,
+					"Norm. citations": 3.6542
+				},
+				"scores": {
+					"Avg. pub. year": 2023.2000,
+					"Avg. citations": 29.0000,
+					"Avg. norm. citations": 0.7308
+				}
+			},
+			{
+				"id": 428,
+				"label": "wuhan univ",
+				"x": -0.4575,
+				"y": -0.4216,
+				"cluster": 1,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 2939.0000,
+					"Documents": 14.0000,
+					"Citations": 2056.0000,
+					"Norm. citations": 14.7355
+				},
+				"scores": {
+					"Avg. pub. year": 2020.4286,
+					"Avg. citations": 146.8571,
+					"Avg. norm. citations": 1.0525
+				}
+			},
+			{
+				"id": 432,
+				"label": "xiamen univ",
+				"x": 0.0645,
+				"y": 0.1483,
+				"cluster": 2,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 2282.0000,
+					"Documents": 12.0000,
+					"Citations": 1991.0000,
+					"Norm. citations": 15.8330
+				},
+				"scores": {
+					"Avg. pub. year": 2021.6667,
+					"Avg. citations": 165.9167,
+					"Avg. norm. citations": 1.3194
+				}
+			},
+			{
+				"id": 441,
+				"label": "xinjiang univ",
+				"x": 0.0415,
+				"y": 0.6530,
+				"cluster": 3,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 3266.0000,
+					"Documents": 10.0000,
+					"Citations": 1052.0000,
+					"Norm. citations": 9.4607
+				},
+				"scores": {
+					"Avg. pub. year": 2021.6000,
+					"Avg. citations": 105.2000,
+					"Avg. norm. citations": 0.9461
+				}
+			},
+			{
+				"id": 456,
+				"label": "zhejiang gongshang univ",
+				"x": 0.3424,
+				"y": -0.3033,
+				"cluster": 2,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 1215.0000,
+					"Documents": 8.0000,
+					"Citations": 605.0000,
+					"Norm. citations": 11.2965
+				},
+				"scores": {
+					"Avg. pub. year": 2022.7500,
+					"Avg. citations": 75.6250,
+					"Avg. norm. citations": 1.4121
+				}
+			},
+			{
+				"id": 458,
+				"label": "zhejiang univ",
+				"x": -0.6414,
+				"y": -0.1905,
+				"cluster": 1,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 1439.0000,
+					"Documents": 7.0000,
+					"Citations": 690.0000,
+					"Norm. citations": 6.6069
+				},
+				"scores": {
+					"Avg. pub. year": 2021.7143,
+					"Avg. citations": 98.5714,
+					"Avg. norm. citations": 0.9438
+				}
+			},
+			{
+				"id": 465,
+				"label": "zhongnan univ econ & law",
+				"x": 0.2993,
+				"y": 0.3062,
+				"cluster": 2,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 2319.0000,
+					"Documents": 8.0000,
+					"Citations": 1145.0000,
+					"Norm. citations": 8.6423
+				},
+				"scores": {
+					"Avg. pub. year": 2021.8750,
+					"Avg. citations": 143.1250,
+					"Avg. norm. citations": 1.0803
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 12,
+				"target_id": 22,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 23,
+				"strength": 95.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 27,
+				"strength": 65.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 29,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 44,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 64,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 65,
+				"strength": 46.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 70,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 77,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 81,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 96,
+				"strength": 56.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 103,
+				"strength": 68.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 112,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 126,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 128,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 130,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 136,
+				"strength": 151.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 141,
+				"strength": 81.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 149,
+				"strength": 68.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 156,
+				"strength": 67.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 163,
+				"strength": 58.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 173,
+				"strength": 56.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 175,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 181,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 211,
+				"strength": 97.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 218,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 220,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 221,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 224,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 252,
+				"strength": 47.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 256,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 277,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 282,
+				"strength": 152.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 287,
+				"strength": 106.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 289,
+				"strength": 383.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 313,
+				"strength": 154.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 315,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 325,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 329,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 330,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 352,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 384,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 426,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 428,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 432,
+				"strength": 61.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 441,
+				"strength": 61.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 456,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 458,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 465,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 23,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 27,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 29,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 44,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 64,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 65,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 70,
+				"strength": 143.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 74,
+				"strength": 56.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 77,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 81,
+				"strength": 137.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 96,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 103,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 126,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 130,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 136,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 141,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 143,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 149,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 156,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 163,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 173,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 175,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 181,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 211,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 218,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 220,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 221,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 224,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 252,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 256,
+				"strength": 62.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 277,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 282,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 287,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 289,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 313,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 315,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 325,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 329,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 330,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 352,
+				"strength": 136.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 368,
+				"strength": 58.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 384,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 426,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 428,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 432,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 441,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 456,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 458,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 465,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 27,
+				"strength": 659.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 29,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 44,
+				"strength": 243.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 64,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 65,
+				"strength": 43.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 70,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 77,
+				"strength": 63.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 81,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 96,
+				"strength": 266.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 103,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 112,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 126,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 128,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 130,
+				"strength": 43.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 136,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 141,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 143,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 149,
+				"strength": 68.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 156,
+				"strength": 286.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 163,
+				"strength": 444.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 173,
+				"strength": 204.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 175,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 181,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 211,
+				"strength": 195.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 218,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 220,
+				"strength": 59.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 221,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 224,
+				"strength": 287.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 252,
+				"strength": 180.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 256,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 277,
+				"strength": 144.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 282,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 287,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 289,
+				"strength": 107.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 313,
+				"strength": 204.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 315,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 325,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 329,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 330,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 352,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 368,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 384,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 426,
+				"strength": 54.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 428,
+				"strength": 62.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 432,
+				"strength": 102.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 441,
+				"strength": 408.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 456,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 458,
+				"strength": 103.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 465,
+				"strength": 82.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 29,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 44,
+				"strength": 230.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 64,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 65,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 70,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 77,
+				"strength": 46.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 81,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 96,
+				"strength": 165.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 103,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 112,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 126,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 128,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 130,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 136,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 141,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 143,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 149,
+				"strength": 47.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 156,
+				"strength": 257.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 163,
+				"strength": 266.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 173,
+				"strength": 94.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 175,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 181,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 211,
+				"strength": 130.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 218,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 220,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 221,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 224,
+				"strength": 63.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 252,
+				"strength": 74.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 256,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 277,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 282,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 287,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 289,
+				"strength": 57.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 313,
+				"strength": 146.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 315,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 325,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 329,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 330,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 352,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 368,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 384,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 426,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 428,
+				"strength": 43.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 432,
+				"strength": 78.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 441,
+				"strength": 77.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 456,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 458,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 465,
+				"strength": 58.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 44,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 64,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 65,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 70,
+				"strength": 182.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 74,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 77,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 81,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 96,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 103,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 112,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 116,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 126,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 128,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 130,
+				"strength": 75.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 136,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 141,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 143,
+				"strength": 70.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 149,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 156,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 163,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 173,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 175,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 181,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 211,
+				"strength": 52.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 218,
+				"strength": 68.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 220,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 221,
+				"strength": 62.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 224,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 252,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 256,
+				"strength": 129.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 277,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 282,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 287,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 289,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 313,
+				"strength": 104.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 315,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 325,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 329,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 330,
+				"strength": 95.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 352,
+				"strength": 84.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 368,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 384,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 426,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 428,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 432,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 441,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 456,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 458,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 465,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 64,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 65,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 70,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 77,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 81,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 96,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 103,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 112,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 126,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 128,
+				"strength": 88.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 130,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 136,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 141,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 149,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 156,
+				"strength": 215.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 163,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 173,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 175,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 181,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 211,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 218,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 220,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 221,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 224,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 252,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 256,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 277,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 282,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 287,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 289,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 313,
+				"strength": 61.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 315,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 325,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 329,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 330,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 352,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 384,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 426,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 428,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 432,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 441,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 456,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 458,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 465,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 65,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 70,
+				"strength": 208.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 74,
+				"strength": 57.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 77,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 81,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 96,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 103,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 112,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 116,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 126,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 128,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 130,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 136,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 141,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 143,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 149,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 156,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 163,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 173,
+				"strength": 51.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 175,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 181,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 211,
+				"strength": 65.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 218,
+				"strength": 60.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 220,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 221,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 224,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 252,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 256,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 277,
+				"strength": 113.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 282,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 287,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 289,
+				"strength": 66.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 313,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 315,
+				"strength": 79.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 325,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 329,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 330,
+				"strength": 142.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 352,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 368,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 384,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 426,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 428,
+				"strength": 136.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 432,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 441,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 456,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 458,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 465,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 70,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 77,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 81,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 96,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 103,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 112,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 126,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 128,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 130,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 136,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 141,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 149,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 156,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 163,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 173,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 175,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 181,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 211,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 218,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 220,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 221,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 224,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 252,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 256,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 277,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 282,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 287,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 289,
+				"strength": 83.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 313,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 315,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 325,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 329,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 330,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 352,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 384,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 426,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 428,
+				"strength": 96.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 432,
+				"strength": 66.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 441,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 456,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 458,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 465,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 74,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 77,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 81,
+				"strength": 169.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 96,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 103,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 112,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 116,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 126,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 128,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 130,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 136,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 141,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 143,
+				"strength": 101.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 149,
+				"strength": 105.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 156,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 163,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 173,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 175,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 181,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 211,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 218,
+				"strength": 232.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 220,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 221,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 224,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 252,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 256,
+				"strength": 141.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 277,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 282,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 287,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 289,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 313,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 315,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 325,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 329,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 330,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 352,
+				"strength": 599.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 368,
+				"strength": 91.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 384,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 426,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 428,
+				"strength": 119.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 432,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 441,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 456,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 458,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 465,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 77,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 81,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 116,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 126,
+				"strength": 63.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 128,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 143,
+				"strength": 72.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 163,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 173,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 175,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 181,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 211,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 218,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 220,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 224,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 256,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 277,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 282,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 315,
+				"strength": 149.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 325,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 329,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 330,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 352,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 368,
+				"strength": 167.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 384,
+				"strength": 63.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 428,
+				"strength": 151.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 432,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 441,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 456,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 74,
+				"target_id": 458,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 81,
+				"strength": 191.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 96,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 103,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 112,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 116,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 126,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 128,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 130,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 136,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 141,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 143,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 149,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 156,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 163,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 173,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 175,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 181,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 211,
+				"strength": 67.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 218,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 220,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 221,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 224,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 252,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 256,
+				"strength": 120.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 277,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 282,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 287,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 289,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 313,
+				"strength": 58.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 315,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 325,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 329,
+				"strength": 94.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 330,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 352,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 368,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 384,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 426,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 428,
+				"strength": 120.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 432,
+				"strength": 56.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 441,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 456,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 458,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 465,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 96,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 116,
+				"strength": 191.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 126,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 130,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 136,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 141,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 143,
+				"strength": 95.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 149,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 156,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 163,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 173,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 175,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 181,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 211,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 218,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 220,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 221,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 224,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 252,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 256,
+				"strength": 116.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 277,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 282,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 289,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 313,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 315,
+				"strength": 93.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 325,
+				"strength": 104.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 329,
+				"strength": 78.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 330,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 352,
+				"strength": 143.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 368,
+				"strength": 312.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 384,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 426,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 428,
+				"strength": 56.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 432,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 441,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 456,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 458,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 465,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 103,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 112,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 126,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 128,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 130,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 136,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 141,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 143,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 149,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 156,
+				"strength": 57.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 163,
+				"strength": 238.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 173,
+				"strength": 128.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 175,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 181,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 211,
+				"strength": 106.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 218,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 220,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 221,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 224,
+				"strength": 188.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 252,
+				"strength": 111.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 256,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 277,
+				"strength": 46.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 282,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 287,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 289,
+				"strength": 62.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 313,
+				"strength": 102.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 315,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 325,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 329,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 330,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 352,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 368,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 384,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 426,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 428,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 432,
+				"strength": 54.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 441,
+				"strength": 69.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 456,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 458,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 96,
+				"target_id": 465,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 126,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 128,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 130,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 136,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 141,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 149,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 156,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 163,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 173,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 175,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 181,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 211,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 218,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 220,
+				"strength": 90.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 221,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 224,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 252,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 256,
+				"strength": 88.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 277,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 282,
+				"strength": 84.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 287,
+				"strength": 69.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 289,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 313,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 315,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 325,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 329,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 330,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 352,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 368,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 384,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 426,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 428,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 432,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 441,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 456,
+				"strength": 66.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 458,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 465,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 116,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 126,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 128,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 130,
+				"strength": 67.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 136,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 143,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 149,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 156,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 163,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 173,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 175,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 181,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 211,
+				"strength": 86.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 218,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 220,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 221,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 224,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 252,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 256,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 277,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 282,
+				"strength": 119.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 287,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 289,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 313,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 315,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 325,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 330,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 352,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 368,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 384,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 426,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 428,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 432,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 441,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 456,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 458,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 112,
+				"target_id": 465,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 126,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 130,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 136,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 141,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 143,
+				"strength": 68.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 149,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 175,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 181,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 211,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 220,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 256,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 277,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 282,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 289,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 313,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 315,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 325,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 329,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 330,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 352,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 368,
+				"strength": 228.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 384,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 426,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 428,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 432,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 441,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 456,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 458,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 465,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 128,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 130,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 136,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 141,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 143,
+				"strength": 66.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 149,
+				"strength": 74.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 156,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 163,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 173,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 175,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 181,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 211,
+				"strength": 66.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 218,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 220,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 221,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 224,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 252,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 256,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 277,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 282,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 287,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 289,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 313,
+				"strength": 69.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 315,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 325,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 329,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 330,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 352,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 368,
+				"strength": 86.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 384,
+				"strength": 71.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 426,
+				"strength": 66.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 428,
+				"strength": 65.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 432,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 441,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 456,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 458,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 126,
+				"target_id": 465,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 130,
+				"strength": 272.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 136,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 141,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 143,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 149,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 156,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 163,
+				"strength": 110.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 173,
+				"strength": 114.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 175,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 181,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 211,
+				"strength": 94.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 218,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 220,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 221,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 224,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 252,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 256,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 277,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 282,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 287,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 289,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 313,
+				"strength": 63.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 315,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 325,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 330,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 352,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 368,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 384,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 426,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 428,
+				"strength": 50.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 432,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 441,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 456,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 458,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 465,
+				"strength": 51.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 136,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 141,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 143,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 149,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 156,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 163,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 173,
+				"strength": 54.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 175,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 181,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 211,
+				"strength": 147.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 218,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 220,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 221,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 224,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 252,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 256,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 277,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 282,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 287,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 289,
+				"strength": 54.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 313,
+				"strength": 76.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 315,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 325,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 330,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 352,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 384,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 426,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 428,
+				"strength": 63.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 432,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 441,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 456,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 458,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 130,
+				"target_id": 465,
+				"strength": 100.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 141,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 143,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 149,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 156,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 163,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 173,
+				"strength": 46.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 175,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 181,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 211,
+				"strength": 240.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 218,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 220,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 221,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 224,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 252,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 256,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 277,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 282,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 287,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 289,
+				"strength": 135.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 313,
+				"strength": 70.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 315,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 325,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 329,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 330,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 352,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 384,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 426,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 428,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 432,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 441,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 456,
+				"strength": 64.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 458,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 136,
+				"target_id": 465,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 143,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 149,
+				"strength": 82.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 156,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 163,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 173,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 175,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 181,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 211,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 218,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 220,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 224,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 252,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 256,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 277,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 282,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 287,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 289,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 313,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 315,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 325,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 329,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 330,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 352,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 384,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 426,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 428,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 432,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 441,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 456,
+				"strength": 78.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 458,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 141,
+				"target_id": 465,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 149,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 163,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 173,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 175,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 181,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 211,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 218,
+				"strength": 63.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 220,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 224,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 256,
+				"strength": 82.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 282,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 287,
+				"strength": 136.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 289,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 313,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 315,
+				"strength": 88.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 325,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 329,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 330,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 352,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 368,
+				"strength": 191.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 384,
+				"strength": 66.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 426,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 428,
+				"strength": 95.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 432,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 441,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 456,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 458,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 143,
+				"target_id": 465,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 156,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 163,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 173,
+				"strength": 43.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 175,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 181,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 211,
+				"strength": 100.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 218,
+				"strength": 83.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 220,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 221,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 224,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 252,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 256,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 277,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 282,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 287,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 289,
+				"strength": 88.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 313,
+				"strength": 79.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 315,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 325,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 329,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 330,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 352,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 368,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 384,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 426,
+				"strength": 147.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 428,
+				"strength": 95.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 432,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 441,
+				"strength": 47.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 456,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 458,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 149,
+				"target_id": 465,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 163,
+				"strength": 49.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 173,
+				"strength": 62.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 175,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 181,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 211,
+				"strength": 98.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 218,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 220,
+				"strength": 65.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 221,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 224,
+				"strength": 54.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 252,
+				"strength": 52.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 256,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 277,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 282,
+				"strength": 57.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 287,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 289,
+				"strength": 105.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 313,
+				"strength": 112.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 315,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 325,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 329,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 330,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 352,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 368,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 384,
+				"strength": 109.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 426,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 428,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 432,
+				"strength": 59.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 441,
+				"strength": 52.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 456,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 458,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 465,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 173,
+				"strength": 222.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 175,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 181,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 211,
+				"strength": 111.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 218,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 220,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 221,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 224,
+				"strength": 178.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 252,
+				"strength": 129.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 256,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 277,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 282,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 287,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 289,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 313,
+				"strength": 120.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 315,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 325,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 329,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 330,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 352,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 368,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 384,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 426,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 428,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 432,
+				"strength": 68.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 441,
+				"strength": 199.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 456,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 458,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 163,
+				"target_id": 465,
+				"strength": 46.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 175,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 181,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 211,
+				"strength": 119.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 218,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 220,
+				"strength": 92.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 221,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 224,
+				"strength": 58.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 252,
+				"strength": 343.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 256,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 277,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 282,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 287,
+				"strength": 232.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 289,
+				"strength": 68.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 313,
+				"strength": 335.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 315,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 325,
+				"strength": 106.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 329,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 330,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 352,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 368,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 384,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 426,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 428,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 432,
+				"strength": 57.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 441,
+				"strength": 68.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 456,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 458,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 173,
+				"target_id": 465,
+				"strength": 46.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 181,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 211,
+				"strength": 213.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 218,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 220,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 224,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 252,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 256,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 277,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 282,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 287,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 289,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 313,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 315,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 325,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 329,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 330,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 352,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 368,
+				"strength": 54.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 384,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 426,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 428,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 432,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 441,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 456,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 458,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 175,
+				"target_id": 465,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 211,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 218,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 220,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 221,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 224,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 252,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 256,
+				"strength": 82.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 277,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 282,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 287,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 289,
+				"strength": 51.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 313,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 315,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 325,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 329,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 330,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 352,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 368,
+				"strength": 60.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 384,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 426,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 428,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 432,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 441,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 456,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 458,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 465,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 218,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 220,
+				"strength": 189.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 221,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 224,
+				"strength": 92.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 252,
+				"strength": 105.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 256,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 277,
+				"strength": 65.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 282,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 287,
+				"strength": 71.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 289,
+				"strength": 114.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 313,
+				"strength": 203.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 315,
+				"strength": 63.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 325,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 329,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 330,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 352,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 368,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 384,
+				"strength": 121.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 426,
+				"strength": 201.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 428,
+				"strength": 83.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 432,
+				"strength": 107.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 441,
+				"strength": 137.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 456,
+				"strength": 57.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 458,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 465,
+				"strength": 307.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 220,
+				"strength": 52.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 221,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 224,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 252,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 256,
+				"strength": 81.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 277,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 282,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 287,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 289,
+				"strength": 65.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 313,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 315,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 325,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 329,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 330,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 352,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 368,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 384,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 426,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 428,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 432,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 441,
+				"strength": 60.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 456,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 458,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 218,
+				"target_id": 465,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 221,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 224,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 252,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 256,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 277,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 282,
+				"strength": 52.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 287,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 289,
+				"strength": 126.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 313,
+				"strength": 52.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 315,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 325,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 329,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 330,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 352,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 368,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 384,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 426,
+				"strength": 126.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 428,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 432,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 441,
+				"strength": 77.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 456,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 458,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 220,
+				"target_id": 465,
+				"strength": 127.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 224,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 252,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 256,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 277,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 282,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 287,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 289,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 313,
+				"strength": 46.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 315,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 325,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 329,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 330,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 352,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 368,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 384,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 426,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 428,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 432,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 441,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 456,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 458,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 221,
+				"target_id": 465,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 252,
+				"strength": 56.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 256,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 277,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 282,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 287,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 289,
+				"strength": 70.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 313,
+				"strength": 178.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 315,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 325,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 329,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 330,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 352,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 368,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 384,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 426,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 428,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 432,
+				"strength": 43.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 441,
+				"strength": 394.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 456,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 458,
+				"strength": 93.0000
+			},
+			{
+				"source_id": 224,
+				"target_id": 465,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 256,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 277,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 282,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 287,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 289,
+				"strength": 47.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 313,
+				"strength": 375.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 315,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 325,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 330,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 352,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 368,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 384,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 426,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 428,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 432,
+				"strength": 46.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 441,
+				"strength": 71.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 456,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 458,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 252,
+				"target_id": 465,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 277,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 282,
+				"strength": 92.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 287,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 289,
+				"strength": 75.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 313,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 315,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 325,
+				"strength": 115.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 329,
+				"strength": 93.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 330,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 352,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 368,
+				"strength": 50.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 384,
+				"strength": 102.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 426,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 428,
+				"strength": 136.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 432,
+				"strength": 68.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 441,
+				"strength": 49.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 456,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 458,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 256,
+				"target_id": 465,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 282,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 287,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 289,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 313,
+				"strength": 64.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 315,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 325,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 329,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 330,
+				"strength": 118.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 352,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 368,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 384,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 426,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 428,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 432,
+				"strength": 95.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 441,
+				"strength": 127.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 456,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 458,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 277,
+				"target_id": 465,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 287,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 289,
+				"strength": 78.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 313,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 315,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 325,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 329,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 330,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 352,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 368,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 384,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 426,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 428,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 432,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 441,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 456,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 458,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 465,
+				"strength": 43.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 289,
+				"strength": 112.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 313,
+				"strength": 51.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 315,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 325,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 329,
+				"strength": 51.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 330,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 352,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 384,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 426,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 428,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 432,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 441,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 456,
+				"strength": 122.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 458,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 287,
+				"target_id": 465,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 313,
+				"strength": 134.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 315,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 325,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 329,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 330,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 352,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 384,
+				"strength": 49.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 426,
+				"strength": 57.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 428,
+				"strength": 49.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 432,
+				"strength": 86.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 441,
+				"strength": 123.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 456,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 458,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 289,
+				"target_id": 465,
+				"strength": 57.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 315,
+				"strength": 88.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 325,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 329,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 330,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 352,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 368,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 384,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 426,
+				"strength": 65.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 428,
+				"strength": 156.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 432,
+				"strength": 89.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 441,
+				"strength": 113.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 456,
+				"strength": 54.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 458,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 313,
+				"target_id": 465,
+				"strength": 90.0000
+			},
+			{
+				"source_id": 315,
+				"target_id": 325,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 315,
+				"target_id": 329,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 315,
+				"target_id": 330,
+				"strength": 59.0000
+			},
+			{
+				"source_id": 315,
+				"target_id": 352,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 315,
+				"target_id": 368,
+				"strength": 126.0000
+			},
+			{
+				"source_id": 315,
+				"target_id": 384,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 315,
+				"target_id": 426,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 315,
+				"target_id": 428,
+				"strength": 168.0000
+			},
+			{
+				"source_id": 315,
+				"target_id": 432,
+				"strength": 46.0000
+			},
+			{
+				"source_id": 315,
+				"target_id": 441,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 315,
+				"target_id": 456,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 315,
+				"target_id": 458,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 315,
+				"target_id": 465,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 325,
+				"target_id": 329,
+				"strength": 143.0000
+			},
+			{
+				"source_id": 325,
+				"target_id": 330,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 325,
+				"target_id": 352,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 325,
+				"target_id": 368,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 325,
+				"target_id": 384,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 325,
+				"target_id": 426,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 325,
+				"target_id": 428,
+				"strength": 64.0000
+			},
+			{
+				"source_id": 325,
+				"target_id": 432,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 325,
+				"target_id": 441,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 325,
+				"target_id": 456,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 325,
+				"target_id": 458,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 325,
+				"target_id": 465,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 329,
+				"target_id": 330,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 329,
+				"target_id": 352,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 329,
+				"target_id": 368,
+				"strength": 101.0000
+			},
+			{
+				"source_id": 329,
+				"target_id": 384,
+				"strength": 113.0000
+			},
+			{
+				"source_id": 329,
+				"target_id": 426,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 329,
+				"target_id": 428,
+				"strength": 203.0000
+			},
+			{
+				"source_id": 329,
+				"target_id": 432,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 329,
+				"target_id": 441,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 329,
+				"target_id": 456,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 329,
+				"target_id": 458,
+				"strength": 62.0000
+			},
+			{
+				"source_id": 329,
+				"target_id": 465,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 352,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 368,
+				"strength": 83.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 384,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 426,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 428,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 432,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 441,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 456,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 458,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 330,
+				"target_id": 465,
+				"strength": 72.0000
+			},
+			{
+				"source_id": 352,
+				"target_id": 368,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 352,
+				"target_id": 384,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 352,
+				"target_id": 426,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 352,
+				"target_id": 428,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 352,
+				"target_id": 432,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 352,
+				"target_id": 441,
+				"strength": 145.0000
+			},
+			{
+				"source_id": 352,
+				"target_id": 456,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 352,
+				"target_id": 458,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 352,
+				"target_id": 465,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 384,
+				"strength": 86.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 426,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 428,
+				"strength": 43.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 432,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 441,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 456,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 458,
+				"strength": 180.0000
+			},
+			{
+				"source_id": 368,
+				"target_id": 465,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 384,
+				"target_id": 426,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 384,
+				"target_id": 428,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 384,
+				"target_id": 432,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 384,
+				"target_id": 441,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 384,
+				"target_id": 456,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 384,
+				"target_id": 458,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 384,
+				"target_id": 465,
+				"strength": 103.0000
+			},
+			{
+				"source_id": 426,
+				"target_id": 428,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 426,
+				"target_id": 432,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 426,
+				"target_id": 441,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 426,
+				"target_id": 456,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 426,
+				"target_id": 458,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 426,
+				"target_id": 465,
+				"strength": 213.0000
+			},
+			{
+				"source_id": 428,
+				"target_id": 432,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 428,
+				"target_id": 441,
+				"strength": 51.0000
+			},
+			{
+				"source_id": 428,
+				"target_id": 456,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 428,
+				"target_id": 458,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 428,
+				"target_id": 465,
+				"strength": 63.0000
+			},
+			{
+				"source_id": 432,
+				"target_id": 441,
+				"strength": 66.0000
+			},
+			{
+				"source_id": 432,
+				"target_id": 456,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 432,
+				"target_id": 458,
+				"strength": 54.0000
+			},
+			{
+				"source_id": 432,
+				"target_id": 465,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 441,
+				"target_id": 456,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 441,
+				"target_id": 458,
+				"strength": 110.0000
+			},
+			{
+				"source_id": 441,
+				"target_id": 465,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 456,
+				"target_id": 458,
+				"strength": 60.0000
+			},
+			{
+				"source_id": 456,
+				"target_id": 465,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 458,
+				"target_id": 465,
+				"strength": 13.0000
+			}
+		]
+	}
+}
