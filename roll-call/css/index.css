@@ -4,7 +4,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background: lightskyblue;
+  background: transparent;
 }
 
 *,
@@ -14,10 +14,10 @@ body {
 
 .container {
   width: 350px;
-  height: 500px;
+  height: 350px;
   margin: auto;
   padding: 100px 20px;
-  background-color: lightskyblue;
+  background-color: transparent;
 }
 
 .panel {
