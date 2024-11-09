@@ -24,6 +24,18 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 <script src="/course-2024/_js/particles.min.js"></script>
 
+
+
+
+    <link rel="Shortcut Icon" href="/roll-call/img/roll-call.png" type="image/png">
+
+    <link rel="stylesheet" type="text/css" href="/roll-call/css/normalize.min.css">
+    <link rel="stylesheet" type="text/css" href="/roll-call/css/index.css">
+
+    <script type="text/javascript" src="/roll-call/js/xlsx.core.min.js"></script>
+
+
+
 </head>
 
 
@@ -199,7 +211,44 @@
       [<a href = "https://app.vosviewer.com/?json=https://www.landbigdata.info/course-2024/demo_class/files/wos_network_institution.json" target="_blank">WoS数据-作者单位</a>]</li>
       
       
-    <li>点名：[<a href = "/course-2024/roll-call/" target="_blank">课堂点名系统</a>]</li> 
+    <li>点名：[<a href = "/course-2024/roll-call/" target="_blank">课堂点名系统</a>]</li>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p> 
+    
+    
+    
+    
+        <div class="container">
+      <div class="panel">
+        <div class="screen">
+          <div class="roll-item"> </div>
+          <div class="roll-item"> </div>
+          <div class="roll-item"> </div>
+        </div>
+        <button class="control-btn start-btn"></button>
+        <div>
+          <input type="file" id="file">
+          <label for="file">选择名单</label>
+        </div>
+      </div>
+    </div>
+    <div class="description">
+      <div>
+        输入文件说明
+      </div>
+      <div>
+        1. 输入的 Excel 文件中只能有一个 Sheet
+      </div>
+      <div>
+        2. 输入的 Excel 文件中必须包含姓名列，该列表头在第一行，表头内容为 “姓名”
+      </div>
+    </div>
+
+    <script src="/roll-call/js/index.js"></script>
+    
+    
+    
+    
 
 <ul id="archive">
 
