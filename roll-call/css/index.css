@@ -16,7 +16,7 @@ body {
   width: 350px;
   height: 350px;
   margin: auto;
-  padding: 100px 20px;
+  padding: 10px 20px;
   background-color: transparent;
 }
 
@@ -49,7 +49,7 @@ body {
 }
 
 .roll-item:nth-of-type(1) {
-  top: -10px;
+  top: -50px;
 }
 
 .roll-item:nth-of-type(2) {
