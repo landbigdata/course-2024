@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>HELLO WORLD</title>
+    <script type="text/javascript" src="http://t0.tianditu.gov.cn/img_w/wmts?tk=21900c56396ba6ceb75913b77d8ffaec"></script>
+    <script>
+        var map,zoom = 12;
+        function onLoad()
+        {
+            //初始化地图对象
+            map=new TMap("mapDiv");
+            //设置显示地图的中心点和级别
+            map.centerAndZoom(new TLngLat(116.40969,39.89945),zoom);
+        }
+    </script>
+</head>
+<body onLoad="onLoad()">
+<div id="mapDiv" style="position:absolute;width:500px; height:400px"></div>
+</body>
+</html>
